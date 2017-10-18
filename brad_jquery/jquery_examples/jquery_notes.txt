@@ -1,0 +1,4 @@
+PROCESS FOR SOLVING JQUERY:
+1. retrieving the values from the form,
+2. passing those values into the correct jQuery function for manipulating CSS, and
+3. binding the previous two parts to a particular event using an event handler. 

@@ -1,0 +1,13 @@
+AJAX REQUIREMENTS:
+1) node.js
+2) npm package manager
+3) live-server (or apache or any server)
+
+STEPS:
+1) CD into folder
+2) $ live-server --port 8000 (if 8080 taken, otherwise blank.)
+3) loads html file in server (8080, same as node.js)
+
+
+JSON FAKER DATA
+https://jsonplaceholder.typicode.com/
